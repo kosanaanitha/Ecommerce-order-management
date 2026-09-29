@@ -1,2 +1,2 @@
-# Ecommerce-order-management
-E-Commerce Order Management System - DBMS Project
+Ecommerce-order-management-dbms
+DBMS Capstone Project – E-Commerce Order Management System 
