@@ -53,6 +53,8 @@ The project demonstrates database design, ER modeling, SQL implementation, CRUD 
 
 ```text
 ecommerce-order-management-dbms/
+├── diagrams/
+│   └── er-diagram.png
 │
 ├── docs/
 │   └── Project Documentation
