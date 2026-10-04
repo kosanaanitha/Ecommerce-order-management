@@ -50,8 +50,8 @@ The project demonstrates database design, ER modeling, SQL implementation, CRUD 
 | 4 | M.V.AMULYA | 25B11AI641 | Documentation and Presentation | Documentation, Screenshots, Presentation |
 
 Testing Contribution: Checked database constraints, tested queries, and verified the output using sample data.
-Documentation Contribution: Worked on project documentation, screenshots, and presentation preparation.
 
+Documentation Contribution: Worked on project documentation, screenshots, and presentation preparation.
 
 ## Project Structure
 
