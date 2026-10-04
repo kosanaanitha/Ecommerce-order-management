@@ -49,7 +49,6 @@ The project demonstrates database design, ER modeling, SQL implementation, CRUD 
 | 3 | DANTHULURI V S S D RAGHAVA RAJU | 25B11AI250 | Testing and Data Validation | Constraints, Testing, Output Verification |
 Testing Contribution: Checked database constraints, tested queries, and verified the output using sample data.
 | 4 | M.V.AMULYA | 25B11AI641 | Documentation and Presentation | Documentation, Screenshots, Presentation |
-Testing Contribution: Checked database constraints, tested queries, and verified the output using sample data.
 
 
 ## Project Structure
