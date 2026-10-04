@@ -47,7 +47,7 @@ The project demonstrates database design, ER modeling, SQL implementation, CRUD 
 | 1 | KOSANA ANITHA | 25B11AI580 | Database Design and ER Modeling | Entities, Relationships, ER Diagram |
 | 2 | MOTURI LAXMI ANUSHA | 25B11AI759 | SQL Implementation and Queries | DDL, DML, DQL, Joins, Subqueries |
 | 3 | DANTHULURI V S S D RAGHAVA RAJU | 25B11AI250 | Testing and Data Validation | Constraints, Testing, Output Verification |
-| 4 | M.V. AMULYA | 25B11AI641 | Documentation and Presentation | Documentation, Screenshots, Presentation |
+| 4 | M.V.AMULYA | 25B11AI641 | Documentation and Presentation | Documentation, Screenshots, Presentation |
 
 ## Project Structure
 
